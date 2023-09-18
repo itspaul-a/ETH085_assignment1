@@ -377,3 +377,6 @@ background-color: red;
   100% { left: 100%; }
 }
 
+.change-height {
+	height: 460px;
+}
